@@ -26,7 +26,8 @@ SET time_zone = "+00:00";
 --
 -- Table structure for table `about_us`
 --
-
+CREATE Database IF NOT EXISTS `isaber` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
+USE `isaber`; 
 CREATE TABLE `about_us` (
   `id` int(11) NOT NULL,
   `title` varchar(255) NOT NULL,

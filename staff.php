@@ -26,11 +26,11 @@ include_once 'includes/header.php';
           <div class="col-lg-4 col-md-6">
             <div class="team4-boxarea">
               <div class="img1">
-                  <img src="assets/img/all-images/team/team-img10.png" alt="" class="team-img10">
+                  <img src="assets/img/all-images/team/solo2.jpg" alt="" class="team-img10">
                   <img src="assets/img/elements/elements13.png" alt="" class="elements13 keyframe5">
               </div>
               <div class="name-area">
-                  <a href="doctor.html">Dr. Jane Cooper</a>
+                  <a href="doctor.html">Dr. Solomon</a>
                   <div class="space12"></div>
                   <p>Dentist</p>
               </div>
@@ -40,11 +40,11 @@ include_once 'includes/header.php';
           <div class="col-lg-4 col-md-6">
             <div class="team4-boxarea">
               <div class="img1">
-                  <img src="assets/img/all-images/team/team-img11.png" alt="" class="team-img10">
+                  <img src="assets/img/all-images/team/trevour.jpeg" alt="" class="team-img10">
                   <img src="assets/img/elements/elements14.png" alt="" class="elements13 keyframe5">
               </div>
               <div class="name-area">
-                  <a href="doctor.html">Dr. Ralph Edwards</a>
+                  <a href="doctor.html">Dr. Kiiza Treavour</a>
                   <div class="space12"></div>
                   <p>Cardiologist</p>
               </div>

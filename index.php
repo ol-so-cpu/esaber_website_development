@@ -13,7 +13,7 @@ include_once 'includes/header.php';
             <div class="row align-items-center">
               <div class="col-lg-6">
                 <div class="hero-header">
-                  <h5><img src="assets/img/icons/sub-logo1.svg" alt=""> Gentle Care for Pain-Free Smiles</h5>
+                  <h5><img src="assets/img/icons/good logo.jpg" alt=""> Gentle Care for Pain-Free Smiles</h5>
                   <div class="space18"></div>
                   <h1>Redefining Dental Care With A Personal Touch</h1>
                   <div class="space20"></div>
@@ -39,7 +39,7 @@ include_once 'includes/header.php';
             <div class="row align-items-center">
               <div class="col-lg-6">
                 <div class="hero-header">
-                  <h5><img src="assets/img/icons/sub-logo1.svg" alt=""> Gentle Care for Pain-Free Smiles</h5>
+                  <h5><img src="assets/img/icons/good logo.jpg" alt=""> Gentle Care for Pain-Free Smiles</h5>
                   <div class="space18"></div>
                   <h1>Redefining Dental Care With A Personal Touch</h1>
                   <div class="space20"></div>
